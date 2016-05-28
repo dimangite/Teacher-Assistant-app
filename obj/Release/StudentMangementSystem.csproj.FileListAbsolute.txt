@@ -1,0 +1,78 @@
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\StudentMangementSystem.exe.config
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\Forms\Report.rdlc
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\StudentMangementSystem.exe
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\StudentMangementSystem.pdb
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\dje-NE\StudentMangementSystem.resources.dll
+C:\Users\Sroin\Documents\GitHub\studentMS\bin\Release\MySql.Data.dll
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.AboutUs.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.AttendanceForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Home.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.ClassSettting.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.DocumentForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.EditUser.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.MenuForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Login.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.ToolMenu.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.MessageBoxUser.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.NewClass.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.NoteForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Option.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.PictureCircle.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.Report.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SC_Edit.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SC_List.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SC_Settings.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SignUp1.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.SL_Edit.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.StudentScore.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SL_Add.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.SL_List.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.StudentList.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentManagementSystem.Forms.SL_Edit.dje-NE.resources
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentMangementSystem.csproj.GenerateResource.Cache
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\RdlCompile.cache
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\RdlCompile.compiled
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\dje-NE\StudentMangementSystem.resources.dll
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentMangementSystem.exe
+C:\Users\Sroin\Documents\GitHub\studentMS\obj\Release\StudentMangementSystem.pdb
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\StudentMangementSystem.exe.config
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentMangementSystem.exe
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentMangementSystem.pdb
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\Forms\Report.rdlc
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\Resources\icon-user-default.png
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\StudentMangementSystem.exe
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\StudentMangementSystem.pdb
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\dje-NE\StudentMangementSystem.resources.dll
+C:\Users\Sroin\Documents\GitHub\studentMS basic\bin\Release\MySql.Data.dll
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentMangementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.AboutUs.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.AttendanceForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Home.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.ClassSettting.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.DocumentForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.EditUser.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.MenuForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Login.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.ToolMenu.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.MessageBoxUser.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.NewClass.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.NoteForm.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Option.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.PictureCircle.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.Report.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SC_Edit.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SC_List.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SC_Settings.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SignUp1.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.SL_Edit.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.StudentScore.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SL_Add.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.SL_List.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.StudentList.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentManagementSystem.Forms.SL_Edit.dje-NE.resources
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\StudentMangementSystem.csproj.GenerateResource.Cache
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\RdlCompile.cache
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\RdlCompile.compiled
+C:\Users\Sroin\Documents\GitHub\studentMS basic\obj\Release\dje-NE\StudentMangementSystem.resources.dll
